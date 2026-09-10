@@ -524,24 +524,6 @@ The API uses **Spring Security** with session-based authentication. Authenticate
 - ✅ Reports
 
 > Users **cannot** access another user's data by simply changing an entity ID in an API request.
-
----
-
-## 🚧 Future Improvements
-
-- [ ] PostgreSQL/MySQL persistent database
-- [ ] JWT authentication option
-- [ ] Swagger/OpenAPI documentation
-- [ ] Automated integration tests
-- [ ] Pagination for transactions
-- [ ] Budget management
-- [ ] Recurring transactions
-- [ ] Expense analytics and charts
-- [ ] Email notifications for savings goals
-- [ ] Password reset functionality
-- [ ] Production database migrations with Flyway/Liquibase
-- [ ] CI/CD using GitHub Actions
-
 ---
 
 ## 🤝 Contributing
